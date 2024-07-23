@@ -1,0 +1,7 @@
+C:\Users\GioLGA\Desktop\Csharp\multiDimensionalIndexes\multiDimensionalIndexes\bin\Debug\multiDimensionalIndexes.exe.config
+C:\Users\GioLGA\Desktop\Csharp\multiDimensionalIndexes\multiDimensionalIndexes\bin\Debug\multiDimensionalIndexes.exe
+C:\Users\GioLGA\Desktop\Csharp\multiDimensionalIndexes\multiDimensionalIndexes\bin\Debug\multiDimensionalIndexes.pdb
+C:\Users\GioLGA\Desktop\Csharp\multiDimensionalIndexes\multiDimensionalIndexes\obj\Debug\multiDimensionalIndexes.csproj.AssemblyReference.cache
+C:\Users\GioLGA\Desktop\Csharp\multiDimensionalIndexes\multiDimensionalIndexes\obj\Debug\multiDimensionalIndexes.csproj.CoreCompileInputs.cache
+C:\Users\GioLGA\Desktop\Csharp\multiDimensionalIndexes\multiDimensionalIndexes\obj\Debug\multiDimensionalIndexes.exe
+C:\Users\GioLGA\Desktop\Csharp\multiDimensionalIndexes\multiDimensionalIndexes\obj\Debug\multiDimensionalIndexes.pdb
